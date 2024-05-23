@@ -1,4 +1,4 @@
-module unbound-exporter
+module github.com/d32f123/unbound-exporter
 
 go 1.19
 
